@@ -3,7 +3,7 @@
 <h3 align="center">Glad to see you here! :star_struck:</h3> 
 <h2>A Bit about me:</h2><br>
                 🔭 I'm a <strong>JavaScript || Core JAVA || Python || Web-Development </strong>enthusiast.<br>
-                ⚡ I am also Github's <strong><em>"Arctic Code Vault Contributor"</em></strong>.<br>
+                ⚡ I am also Github's <strong><em>"Arctic Code Vault "</em></strong>.<br>
                 ⚛️ I’m currently onto learning <strong>"Full-Stack Web-Development"</strong> using the <strong>MERN</strong><em> stack(Mongodb, ExpressJs, ReactJs, NodeJs)</em>.<br>
                 😄 Apart from these, I am an aspiring <em>"Data-Structures and Algorithms"</em> learner.<br><br>
                 👯 Coding has changed my perception of the world. It's not just about Apps. Learning to code provided me with the <i>problem-solving skills</i> and ways to communicate with others on a more technical level.<br><br> 
